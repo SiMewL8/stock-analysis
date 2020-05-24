@@ -1,7 +1,7 @@
 # stock-analysis
 Stock Analysis: Helping Steve research Green Energy stocks using VBA
 
-#Challenge
+# Challenge
 
 Having practiced VBA code that now runs efficiently and clean, Steve can break no sweat and access his analysis for stocks for any year.
 
