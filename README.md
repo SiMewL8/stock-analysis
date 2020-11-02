@@ -1,5 +1,13 @@
 # stock-analysis
-Stock Analysis: Helping Steve research Green Energy stocks using VBA
+Stock Analysis: Helping Steve research Green Energy stocks using Visual Basic Applications (VBA) from Microsoft Excel.
+
+Some of the tasks included in this project were:
+- Create VBA macro that triggers pop-ups and inputs which transform cell values
+- Use loops (also nested loops) and conditionals to direct VBA script flow
+- Apply coding skills such as syntax recollection, pattern recognition, problem decomposition, and debugging
+
+![VBA Snip](vba_snip.jpg)
+
 
 # Challenge
 
